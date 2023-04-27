@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mix-Small-Application:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mix_Small_Application_jar3</output-path>
+    <root id="archive" name="Mix-Small-Application.jar">
+      <element id="module-output" name="Mix-Small-Application" />
+    </root>
+  </artifact>
+</component>
